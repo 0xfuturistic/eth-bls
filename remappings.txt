@@ -1,0 +1,5 @@
+Solidity-RLP/=lib/eth-proof-of-consensus/contracts/lib/Solidity-RLP/contracts/
+curve-merkle-oracle/=lib/eth-proof-of-consensus/contracts/lib/curve-merkle-oracle/contracts/
+ds-test/=lib/forge-std/lib/ds-test/src/
+eth-proof-of-consensus/=lib/eth-proof-of-consensus/
+forge-std/=lib/forge-std/src/
